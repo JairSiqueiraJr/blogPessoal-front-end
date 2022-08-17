@@ -1,0 +1,10 @@
+.cursor{
+    cursor: pointer !important;
+    color: white !important;
+}
+
+.text-decorator-none{
+    text-decoration: none !important;
+}
+
+
